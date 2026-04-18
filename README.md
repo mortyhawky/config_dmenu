@@ -4,7 +4,7 @@
 cd ~/.config/dmenu
 
 v config.h
-   "AdwaitaMono Nerd Font Mono:s=12"
+   "AdwaitaMono Nerd Font Mono:size=12"
 diff -u config.def.h config.h > 2026_04_18_1707-morty.patch
 
 v .gitignore
